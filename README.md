@@ -8,3 +8,7 @@
 * Build network with Keras
 * Train the Network
 * Testing of Data on Performance Metrics
+
+### Resulting in low Variance, maintaining the consistancy of Train and Test splitting data.
+
+![Screenshot](accuracy.png)
